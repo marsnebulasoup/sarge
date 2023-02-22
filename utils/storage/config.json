@@ -1,0 +1,160 @@
+{
+	"playerinfo": [
+		{
+			"user": {
+				"id": "419243103254478868",
+				"system": false,
+				"locale": null,
+				"flags": 0,
+				"username": "marsnebulasoup",
+				"bot": false,
+				"discriminator": "5988",
+				"avatar": null,
+				"lastMessageChannelID": null,
+				"createdTimestamp": 1520025744976,
+				"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+				"tag": "marsnebulasoup#5988",
+				"avatarURL": null,
+				"displayAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png"
+			},
+			"details": {
+				"rank": "Supreme Commander",
+				"matches": 4064,
+				"wins": 3727,
+				"kills": 47504,
+				"deaths": 22059
+			},
+			"screenshot_url": "https://media.discordapp.net/attachments/862347132279062558/958441421122203668/unknown.jpeg"
+		},
+		{
+			"user": {
+				"id": "802968744376664074",
+				"system": null,
+				"locale": null,
+				"flags": 0,
+				"username": "SASUKE",
+				"bot": false,
+				"discriminator": "3580",
+				"avatar": "432cb9eaf58d9984b2bc6c8f6b973cd8",
+				"lastMessageChannelID": null,
+				"createdTimestamp": 1611513067097,
+				"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+				"tag": "SASUKE#3580",
+				"avatarURL": "https://cdn.discordapp.com/avatars/802968744376664074/432cb9eaf58d9984b2bc6c8f6b973cd8.webp",
+				"displayAvatarURL": "https://cdn.discordapp.com/avatars/802968744376664074/432cb9eaf58d9984b2bc6c8f6b973cd8.webp"
+			},
+			"details": {
+				"rank": "Lieutenant General",
+				"matches": 1311,
+				"wins": 1144,
+				"kills": 0,
+				"deaths": 0
+			},
+			"screenshot_url": "https://media.discordapp.net/attachments/862347132279062558/864894274070773790/140530b6-a9f8-4251-9e02-696e424ee48e.jpg"
+		},
+		{
+			"user": {
+				"id": "845760917832728666",
+				"system": null,
+				"locale": null,
+				"flags": 0,
+				"username": "Ghosst",
+				"bot": false,
+				"discriminator": "3510",
+				"avatar": "84a7ea3c7c27e125f25ec14a8073879c",
+				"lastMessageChannelID": null,
+				"createdTimestamp": 1621715516289,
+				"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+				"tag": "Ghosst#3510",
+				"avatarURL": "https://cdn.discordapp.com/avatars/845760917832728666/84a7ea3c7c27e125f25ec14a8073879c.webp",
+				"displayAvatarURL": "https://cdn.discordapp.com/avatars/845760917832728666/84a7ea3c7c27e125f25ec14a8073879c.webp"
+			},
+			"details": {
+				"rank": "General of the Armies",
+				"matches": 1901,
+				"wins": 1885,
+				"kills": 27936,
+				"deaths": 8319
+			},
+			"screenshot_url": "https://media.discordapp.net/attachments/862347132279062558/895776016843292692/IMG-20211007-WA0030.jpg"
+		},
+		{
+			"user": {
+				"id": "849623098751713320",
+				"system": false,
+				"locale": null,
+				"flags": 0,
+				"username": "+MAGMA",
+				"bot": false,
+				"discriminator": "1179",
+				"avatar": "31aac5d4d9ed56201eab18ac8ef9ba53",
+				"lastMessageChannelID": null,
+				"createdTimestamp": 1622636331976,
+				"defaultAvatarURL": "https://media4.giphy.com/media/3o6wrebnKWmvx4ZBio/giphy.gif",
+				"tag": "+MAGMA#1179",
+				"avatarURL": "https://media4.giphy.com/media/3o6wrebnKWmvx4ZBio/giphy.gif",
+				"displayAvatarURL": "https://media4.giphy.com/media/3o6wrebnKWmvx4ZBio/giphy.gif"
+			},
+			"details": {
+				"rank": "Noob",
+				"matches": 0,
+				"wins": 0,
+				"kills": 0,
+				"deaths": 0
+			},
+			"screenshot_url": "https://media4.giphy.com/media/3o6wrebnKWmvx4ZBio/giphy.gif"
+		},
+		{
+			"user": {
+				"id": "881561470079471717",
+				"system": false,
+				"locale": null,
+				"flags": 0,
+				"username": "SHUFFLER",
+				"bot": false,
+				"discriminator": "8359",
+				"avatar": "c336ad0fdcea35be3cbfa49f1107bcc2",
+				"lastMessageChannelID": null,
+				"createdTimestamp": 1630251033087,
+				"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+				"tag": "SHUFFLER#8359",
+				"avatarURL": "https://cdn.discordapp.com/avatars/881561470079471717/c336ad0fdcea35be3cbfa49f1107bcc2.webp",
+				"displayAvatarURL": "https://cdn.discordapp.com/avatars/881561470079471717/c336ad0fdcea35be3cbfa49f1107bcc2.webp"
+			},
+			"details": {
+				"rank": "Supreme Commander",
+				"matches": 4790,
+				"wins": 0,
+				"kills": 46441,
+				"deaths": 30850
+			},
+			"screenshot_url": "https://media.discordapp.net/attachments/862347132279062558/897873579213979709/IMG_20211008_070332.jpg"
+		},
+		{
+			"user": {
+				"id": "954528180520243240",
+				"system": false,
+				"locale": null,
+				"flags": 0,
+				"username": "Victor James",
+				"bot": false,
+				"discriminator": "4661",
+				"avatar": "a64e019fb6f8d747460fd7236eb616a8",
+				"lastMessageChannelID": null,
+				"createdTimestamp": 1647647652512,
+				"defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+				"tag": "Victor James#4661",
+				"avatarURL": "https://cdn.discordapp.com/avatars/954528180520243240/a64e019fb6f8d747460fd7236eb616a8.webp",
+				"displayAvatarURL": "https://cdn.discordapp.com/avatars/954528180520243240/a64e019fb6f8d747460fd7236eb616a8.webp"
+			},
+			"details": {
+				"rank": "Supreme Commander",
+				"matches": 3276,
+				"wins": 3065,
+				"kills": 39476,
+				"deaths": 16088
+			},
+			"screenshot_url": "https://media.discordapp.net/attachments/862347132279062558/958364232875933706/WhatsApp_Image_2022-03-29_at_8.08.31_AM.jpeg"
+		}
+	]
+}
